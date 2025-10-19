@@ -1,4 +1,4 @@
-# CodeAlpha_CGPA_Calculator
+# CGPA_Calculator
 
 Sample Output:
 
